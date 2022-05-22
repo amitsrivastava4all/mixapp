@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.38be36b0.css",
-    "main.js": "/static/js/main.c3284370.js",
-    "static/js/787.a81e249b.chunk.js": "/static/js/787.a81e249b.chunk.js",
-    "static/media/logo.png": "/static/media/logo.4d46ad6a1e8f63d6ffda.png",
-    "index.html": "/index.html",
-    "main.38be36b0.css.map": "/static/css/main.38be36b0.css.map",
-    "main.c3284370.js.map": "/static/js/main.c3284370.js.map",
-    "787.a81e249b.chunk.js.map": "/static/js/787.a81e249b.chunk.js.map"
+    "main.css": "https://amitsrivastava4all.github.io/mixapp/static/css/main.38be36b0.css",
+    "main.js": "https://amitsrivastava4all.github.io/mixapp/static/js/main.9c551059.js",
+    "static/js/787.a81e249b.chunk.js": "https://amitsrivastava4all.github.io/mixapp/static/js/787.a81e249b.chunk.js",
+    "static/media/logo.png": "https://amitsrivastava4all.github.io/mixapp/static/media/logo.4d46ad6a1e8f63d6ffda.png",
+    "index.html": "https://amitsrivastava4all.github.io/mixapp/index.html",
+    "main.38be36b0.css.map": "https://amitsrivastava4all.github.io/mixapp/static/css/main.38be36b0.css.map",
+    "main.9c551059.js.map": "https://amitsrivastava4all.github.io/mixapp/static/js/main.9c551059.js.map",
+    "787.a81e249b.chunk.js.map": "https://amitsrivastava4all.github.io/mixapp/static/js/787.a81e249b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38be36b0.css",
-    "static/js/main.c3284370.js"
+    "static/js/main.9c551059.js"
   ]
 }
